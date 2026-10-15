@@ -1,0 +1,8 @@
+{
+  "name": "Remix Website Accessibility \u0026 Performance Checker - Managed Agent",
+  "description": "Lighthouse \u0026 Light Web Application Code Audit powered by a Gemini Managed Agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
